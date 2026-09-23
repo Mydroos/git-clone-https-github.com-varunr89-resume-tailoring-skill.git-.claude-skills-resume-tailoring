@@ -1,15 +1,15 @@
 # Dorian Moyne
 
-Product Management Leader – E-Mobility, Energy Storage & Power Electronics
+Business Development Manager – E-Mobility, Energy Storage & Power Electronics
 +33 6 49 48 89 91 | dorianm@nrd-mail.com | linkedin.com/in/dorian-moyne/ | Fourg, France
 
 ## Key Skills
 
-Product Portfolio & P&L Management in energy/e-mobility segments • Product Roadmap & Pricing Strategy • Business Development & Go-to-Market for energy transition markets • Key Account Management (OEM & Tier 1) • Product Management Team Leadership • Prioritization & Reporting to Governance • Cross-Functional Coordination (Engineering, Industrialization, Quality, Supply Chain) • Lean Six Sigma • DFMEA/FEA
+Business Development & Go-to-Market for energy transition markets • Key Account Management (OEM & Tier 1) • Pipeline building & conversion into design wins • Market entry strategy • Pricing negotiation • Product Management Team Leadership • Product Portfolio & P&L Management • Cross-Functional Coordination (Engineering, Industrialization, Quality, Supply Chain) • Analysis, Problem-Solving & Decision-Making
 
 ## Profile
 
-10+ years of experience in Product Management, Business Development and product engineering across energy-transition segments: e-mobility, battery energy storage (BESS), electric two-wheelers and power electronics. Full P&L ownership of a $100M global e-mobility product line across 3 sites (France, India, China), with direct management of a team of 5 Product Managers and 1 Product Specialist, and extended coordination of 25+ PMs. Drives portfolios of power and connection systems from strategy to industrialization: roadmap, pricing, risk management, reporting to senior leadership. Grew businesses from $1M to $30M and from $45M to $100M in these segments, building a combined qualified pipeline exceeding $370M with a conversion rate above 30%. Engineer by training, started in process engineering and product development before moving into Product Management and Business Development in energy and electric mobility markets.
+10+ years of experience in Business Development, Product Management and product engineering across energy-transition segments: e-mobility, battery energy storage (BESS), electric two-wheelers and power electronics. Grew businesses from $1M to $30M and from $45M to $100M in these segments, building a combined qualified pipeline exceeding $370M with a conversion rate above 30%. Selected to build a Business Development organization for EMEA from the ground up across segments including e-mobility and energy storage: designed market entry strategy, personally generated €20M in incremental pipeline, converted €6M into design wins, grew Top 5 OEM and Top 5 Tier 1 accounts in the electric mobility sector. Full P&L ownership of a $100M global e-mobility product line across 3 sites (France, India, China), with direct management of a team of 5 Product Managers. Engineer by training, started in process engineering and product development before moving into Business Development and Product Management in energy and electric mobility markets.
 
 ## Professional Experience
 
@@ -17,16 +17,17 @@ Product Portfolio & P&L Management in energy/e-mobility segments • Product Roa
 **Amphenol – Remote** | May 2026 – present
 
 - Selected to build a new EMEA organization from the ground up across segments including e-mobility and energy storage: designed and executed market entry and growth strategy (product + commercial).
+- Personally generated €20M in incremental pipeline, converting €6M into design wins.
+- Grew Top 5 OEM and Top 5 Tier 1 accounts in the electric mobility sector.
 - Managing a segment portfolio of €80M pipeline and €20M revenue across 7 product families, including power systems for electric vehicles and storage applications.
-- Personally generated €20M in incremental pipeline, converting €6M into design wins; growing Top 5 OEM and Top 5 Tier 1 accounts in the electric mobility sector.
 - Cross-functional leadership across ~44 stakeholders: sales reps, 6 Product Line Managers, 25 PMs, ops/engineering (3 sites).
 
 ### Group Product Manager
 **Amphenol – Remote** | June 2024 – May 2026
 
-- Full P&L responsibility for a $100M global e-mobility product line across 3 sites (France, India, China), including 36-month strategic roadmap and 12-month operating plan, with ~$4M OPEX/CAPEX budget.
 - Grew revenue from $45M to $100M across e-mobility and battery energy storage (BESS) segments; $150M projected for 2029.
 - Built a $220M qualified pipeline with >30% conversion rate with OEMs and Tier 1s in electric mobility.
+- Full P&L responsibility for a $100M global e-mobility product line across 3 sites (France, India, China): 36-month strategic roadmap, ~$4M OPEX/CAPEX budget.
 - Improved Return on Sales by +10% through pricing discipline and industrialization of the power systems portfolio.
 - Reported monthly to the Amphenol group board; direct management of an international team of 5 Product Managers and 1 Product Specialist (Europe & Asia).
 
@@ -34,10 +35,10 @@ Product Portfolio & P&L Management in energy/e-mobility segments • Product Roa
 **Amphenol – Besançon, France** | Jan 2022 – May 2024
 
 - Global strategy and commercial execution for a connection systems family for electric vehicle platforms; team and pipeline built from scratch.
-- Direct management of 2 reports: a local Product Manager in China and a Product Specialist in France.
 - Grew revenue from $1M to $30M.
 - $150M opportunity pipeline with >30% conversion rate in electric mobility markets.
-- Defined product roadmap and pricing strategy across global e-mobility markets.
+- Direct management of 2 reports: a local Product Manager in China and a Product Specialist in France.
+- Defined pricing strategy across global e-mobility markets.
 
 ### Product Manager – Industrial Power Components
 **Amphenol – Besançon, France** | Dec 2020 – Dec 2021
