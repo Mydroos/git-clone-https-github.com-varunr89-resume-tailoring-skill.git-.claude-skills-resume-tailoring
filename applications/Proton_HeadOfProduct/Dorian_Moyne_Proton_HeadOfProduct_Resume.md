@@ -1,11 +1,11 @@
 # Dorian Moyne
 
-Head of Product Leadership — Consumer Software & Digital Platforms
+Head of Product Leadership | Consumer Software & Digital Platforms
 +33 6 49 48 89 91 | dorianm@nrd-mail.com | linkedin.com/in/dorian-moyne/ | Fourg, France
 
 ## Professional Summary
 
-10+ years leading product organizations end-to-end — from strategy and roadmap to full P&L ownership and team leadership — in fast-moving, resource-constrained environments. Built and led teams of Product Managers from scratch, set vision and roadmap, and translated them into results: business lines grown from $1M to $30M and $45M to $100M, with a cumulative qualified pipeline above $370M. Comfortable operating with ambiguity, making high-conviction calls, and reporting directly to executive leadership. Long-time Proton user and advocate for digital privacy and European tech sovereignty, drawn to Proton's mission of making privacy the default.
+10+ years leading product organizations: strategy, roadmap, full P&L ownership, and team leadership, in fast-moving, resource-constrained environments. Built and led teams of Product Managers from scratch, set vision and roadmap, and delivered results: business lines grown from $1M to $30M and from $45M to $100M, with a cumulative qualified pipeline above $370M. Comfortable operating with ambiguity, making high-conviction calls, and reporting directly to executive leadership. Long-time Proton user and advocate for digital privacy and European tech sovereignty, motivated by Proton's mission of making privacy the default.
 
 ## Key Skills
 
@@ -16,18 +16,18 @@ Product Strategy & Roadmap Ownership • Product Management Team Leadership (hir
 ### Strategy Business Development Manager
 **Amphenol – Remote** | May 2026 – Present
 
-- Selected to build a new EMEA organization from the ground up: designed and executed market entry and growth strategy end-to-end (product + commercial) with a scrappy, resource-efficient approach.
+- Selected to build a new EMEA organization from the ground up. Designed and executed the market entry and growth strategy (product and commercial) with a scrappy, resource-efficient approach.
 - Own a portfolio of €80M pipeline and €20M revenue across 7 product families, prioritizing and making high-conviction calls on where to focus with limited resources.
-- Cross-functional leadership across ~44 stakeholders: sales, 6 Product Line Managers, 25 Product Managers, operations/engineering across 3 sites — driving alignment without direct authority over most of the group.
+- Led cross-functional efforts across ~44 stakeholders: sales, 6 Product Line Managers, 25 Product Managers, and operations/engineering across 3 sites. Drove alignment without direct authority over most of the group.
 - Personally generated €20M of incremental pipeline, converting €6M into design wins; reactivated dormant accounts and grew strategic key accounts.
 
 ### Group Product Manager
 **Amphenol – Remote** | June 2024 – May 2026
 
-- Full P&L ownership of a $100M global product line across 3 sites (France, India, China): set the 36-month strategic roadmap and 12-month operating plan, and owned execution end-to-end.
+- Full P&L ownership of a $100M global product line across 3 sites (France, India, China). Set the 36-month strategic roadmap and 12-month operating plan, and owned execution end-to-end.
 - Directly managed, coached, and developed a team of 5 Product Managers and 1 Product Specialist (Europe & Asia); recruited 2 new Product Managers and managed a performance-related departure.
-- Defined and owned the portfolio's KPIs and held the team accountable for moving them — grew revenue from $45M to $100M ($150M projected for 2029).
-- Owned monthly reporting and roadmap rationale to the Amphenol group board, translating product strategy and tradeoffs for executive leadership.
+- Defined and owned the portfolio's KPIs and held the team accountable for moving them. Grew revenue from $45M to $100M, with $150M projected for 2029.
+- Presented monthly roadmap and strategy updates, including tradeoffs, to the Amphenol group board for executive decision-making.
 - Coordinated with engineering, quality, and supply chain teams to sequence roadmap execution and resolve blockers at key milestones.
 
 ### Product Manager – Automotive Connector
@@ -45,12 +45,12 @@ Product Strategy & Roadmap Ownership • Product Management Team Leadership (hir
 ### Product Development Engineer & Process Engineer
 **C&K – Dole, France** | Sep 2015 – Dec 2020
 
-- Progressed from process engineering to product development, building the technical grounding (FEA simulation, materials, industrialization) that underpins later product leadership roles.
+- Progressed from process engineering to product development, working on FEA simulation, materials, and industrialization. This technical background underpins the later product leadership roles above.
 
 ## Education
 
-**Engineering Degree, Mechanical & Microtechnical Engineering** — SUPMICROTECH-ENSMM, Besançon — 2015–2018
-**BTS, Design & Industrialization in Microtechnology** — Lycée Edgar Faure, Morteau — 2013–2015
+**Engineering Degree, Mechanical & Microtechnical Engineering**, SUPMICROTECH-ENSMM, Besançon, 2015–2018
+**BTS, Design & Industrialization in Microtechnology**, Lycée Edgar Faure, Morteau, 2013–2015
 
 ## Languages
 
