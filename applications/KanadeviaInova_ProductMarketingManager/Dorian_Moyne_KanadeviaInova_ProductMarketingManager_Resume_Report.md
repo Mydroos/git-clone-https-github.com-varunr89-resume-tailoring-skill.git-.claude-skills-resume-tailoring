@@ -18,10 +18,10 @@
 - Base structure: adapted from `CV_Dorian_Moyne_EN.md`, with title/summary reframed using language from `CV_Dorian_Moyne_Flyability_HeadOfProductManagement.md` and `Dorian_Moyne_Proton_HeadOfProduct_Resume.md`.
 - Direct matches: P&L/roadmap ownership, cross-functional coordination, market & competitive analysis, KPI/board reporting — all DIRECT (>90%).
 - Newly discovered (this session, not previously in library):
-  - **BESS customer work** (Northvolt, Form Energy, EOS Energy, Tesla Megapack — daisy-chain/inverter applications): DIRECT match to "power industry / renewable" requirement. Added to Group Product Manager bullet.
+  - **BESS customer work** (named accounts: Northvolt, Form Energy, EOS Energy, Tesla Megapack — daisy-chain/inverter applications): DIRECT match to "power industry / renewable" requirement. Added to Group Product Manager bullet as "several leading tier-1 BESS OEMs" — you flagged a possible confidentiality restriction on naming Amphenol's clients, so the named accounts were removed from the resume itself. They're kept here only as private notes for your own reference.
   - **Marketing execution** (monthly campaigns with marketing team, newsletters, application webinars, distributor training): DIRECT match to the "Marketing" half of the job title, previously undocumented in the library. Added to Group Product Manager and reflected in Key Skills / Summary.
 - Reframing applied:
-  - Title: "Head of Product Management" → "Product & Marketing Manager – Energy Transition" (mirrors job title, signals the energy angle truthfully via BESS work — not a waste-to-energy claim).
+  - Title: "Head of Product Management" → "Product & Marketing Manager, Energy Transition" (mirrors job title, signals the energy angle truthfully via BESS work, not a waste-to-energy claim).
   - Roles pre-2020 consolidated ("Product Development Engineer & Process Engineer") to free space for the more relevant Marketing/BESS content, consistent with prior Proton resume's approach.
 
 ## Gaps Identified
@@ -35,7 +35,8 @@
 - This session's discovery conversation — BESS clients, marketing campaign details
 
 ## Recommendations for Interview Prep
-- Be ready to explain the BESS work (Northvolt, Form Energy, EOS Energy, Tesla Megapack) in technical detail — this is your strongest bridge into the power/energy sector.
+- Be ready to explain the BESS work in technical detail (the named accounts — Northvolt, Form Energy, EOS Energy, Tesla Megapack — stay out of the resume pending confirmation there's no confidentiality restriction, but you can decide case by case whether to name them out loud in an interview). This is your strongest bridge into the power/energy sector.
+- Check your Amphenol contract/employee handbook for an explicit confidentiality clause on client names before naming them verbally in an interview, too.
 - Prepare a clear, honest narrative on why waste-to-energy specifically (mission fit, transferable industrial-B2B skills) since it's the one gap an interviewer is likely to probe.
 - Have 1-2 concrete examples ready of the marketing campaigns/webinars/newsletter cadence — quantify reach or lead volume if you can recall numbers, since the current bullet doesn't have metrics for that part.
 - Consider addressing the sector gap briefly and confidently in a cover letter, framing it as a deliberate move toward mission-driven industrial energy transition work.

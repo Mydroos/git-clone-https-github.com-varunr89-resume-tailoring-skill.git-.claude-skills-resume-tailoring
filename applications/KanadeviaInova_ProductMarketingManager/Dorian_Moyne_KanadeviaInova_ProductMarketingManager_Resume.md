@@ -5,7 +5,7 @@ Product & Marketing Manager, Energy Transition
 
 ## Professional Summary
 
-10+ years managing industrial products across their full lifecycle in automotive, e-mobility, energy storage (BESS), and industrial electronics. Responsibilities span strategy, roadmap, marketing execution, and P&L ownership. Engineer by training, with hands-on experience serving power and renewable-energy customers (Northvolt, Form Energy, EOS Energy, Tesla Megapack) on custom and standard product solutions. Runs cross-functional product development and go-to-market programs: market and competitive analysis, pricing strategy, sales enablement (webinars, distributor training), and marketing campaigns (newsletters, lead generation) in coordination with corporate marketing, engineering, and sales teams. Tracks KPIs and customer feedback and adjusts the roadmap accordingly. Reports roadmap and strategy trade-offs to executive leadership. Native French, bilingual English, German (learning).
+10+ years managing industrial products across their full lifecycle in automotive, e-mobility, energy storage (BESS), and industrial electronics. Responsibilities span strategy, roadmap, marketing execution, and P&L ownership. Engineer by training, with hands-on experience serving leading battery energy storage system (BESS) OEMs on custom and standard product solutions. Runs cross-functional product development and go-to-market programs: market and competitive analysis, pricing strategy, sales enablement (webinars, distributor training), and marketing campaigns (newsletters, lead generation) in coordination with corporate marketing, engineering, and sales teams. Tracks KPIs and customer feedback and adjusts the roadmap accordingly. Reports roadmap and strategy trade-offs to executive leadership. Native French, bilingual English, German (learning).
 
 ## Key Skills
 
@@ -25,7 +25,7 @@ Product Lifecycle Management (strategy, roadmap, launch, continuous improvement)
 **Amphenol, Remote** | June 2024 – May 2026
 
 - Full P&L ownership of a $100M global e-mobility and power-electronics product line across 3 sites (France, India, China): 36-month strategic roadmap, 12-month operating plan, ~$4M OPEX/CAPEX budget.
-- Direct technical and commercial point of contact for tier-1 battery energy storage system (BESS) OEMs, including Northvolt, Form Energy, EOS Energy, and Tesla Megapack, proposing standard and custom connector solutions for daisy-chain and inverter applications.
+- Direct technical and commercial point of contact for several leading tier-1 battery energy storage system (BESS) OEMs, proposing standard and custom connector solutions for daisy-chain and inverter applications.
 - Owned market introduction and sales enablement for new product launches: monthly marketing campaigns and newsletters run with the corporate marketing team, application-focused webinars, and distributor training sessions to drive channel readiness and lead generation.
 - Grew revenue from $45M to $100M ($150M projected for 2029); built a $220M qualified pipeline at >30% conversion; improved Return on Sales by +10% through pricing discipline.
 - Directly managed and coached a team of 5 Product Managers and 1 Product Specialist (Europe & Asia); reported monthly roadmap, KPIs, and strategy trade-offs to the Amphenol group board.
