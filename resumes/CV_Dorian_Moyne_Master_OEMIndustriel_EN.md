@@ -13,15 +13,8 @@ Multi-Site Product Portfolio & P&L Management • Product Roadmap, Pricing Strat
 
 ## Professional Experience
 
-### Strategy Business Development Manager
-**Amphenol – Remote** | May 2026 – present
-
-- Selected to build a new EMEA organization from the ground up: established processes and tracking standards, with cross-functional leadership across ~44 stakeholders (sales reps, 6 Product Line Managers, 25 Product Managers, ops/engineering across 3 sites).
-- Managing a segment portfolio of €80M pipeline and €20M revenue across 7 industrial product families.
-- Personally generated €20M in incremental pipeline, converting €6M into design wins; growing Top 5 OEM and Top 5 Tier 1 accounts, reactivating dormant accounts.
-
 ### Group Product Manager
-**Amphenol – Remote** | June 2024 – May 2026
+**Amphenol – Remote** | June 2024 – present
 
 - Full P&L responsibility for a $100M global industrial product line across 3 sites (France, India, China): 36-month strategic roadmap, 12-month operating plan, ~$4M OPEX/CAPEX budget.
 - Grew revenue from $45M to $100M; $150M projected for 2029.

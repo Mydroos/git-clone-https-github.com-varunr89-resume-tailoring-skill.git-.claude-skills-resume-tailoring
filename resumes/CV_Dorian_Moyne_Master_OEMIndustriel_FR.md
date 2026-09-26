@@ -13,15 +13,8 @@ Pilotage de portefeuille produits multi-sites & P&L • Roadmap produit, straté
 
 ## Expérience professionnelle
 
-### Strategy Business Development Manager
-**Amphenol – Remote** | Mai 2026 – présent
-
-- Sélectionné pour construire une nouvelle organisation EMEA depuis zéro : mise en place des processus et standards de suivi, avec leadership interfonctionnel sur ~44 parties prenantes (commerciaux, 6 Product Line Managers, 25 Product Managers, opérations/ingénierie sur 3 sites).
-- Pilotage d'un portefeuille de 80 M€ de pipeline et 20 M€ de revenu sur 7 familles de produits industriels.
-- Génération personnelle de 20 M€ de pipeline incrémental, conversion de 6 M€ en design wins ; développement des comptes Top 5 OEM et Top 5 Tier 1, réactivation de comptes dormants.
-
 ### Group Product Manager
-**Amphenol – Remote** | Juin 2024 – Mai 2026
+**Amphenol – Remote** | Juin 2024 – présent
 
 - Responsabilité P&L complète d'une ligne de produits industriels mondiale de 100 M$ sur 3 sites (France, Inde, Chine) : roadmap stratégique à 36 mois, plan opérationnel à 12 mois, budget OPEX/CAPEX de ~4 M$.
 - Croissance du revenu de 45 M$ à 100 M$ ; 150 M$ projetés pour 2029.

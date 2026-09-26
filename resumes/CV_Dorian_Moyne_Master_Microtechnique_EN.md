@@ -13,14 +13,8 @@ Natural leadership: coaching, challenging, developing and uniting a team • Mec
 
 ## Professional Experience
 
-### Strategy Business Development Manager
-**Amphenol – Remote** | May 2026 – present
-
-- Selected to build a new EMEA organization from the ground up: established processes and tracking standards, with cross-functional leadership across ~44 stakeholders (sales reps, 6 Product Line Managers, 25 Product Managers, ops/engineering across 3 sites).
-- Overall visibility and prioritization across a portfolio of 7 precision product families.
-
 ### Group Product Manager
-**Amphenol – Remote** | June 2024 – May 2026
+**Amphenol – Remote** | June 2024 – present
 
 - Operational leadership of an international product team of 6 (Europe & Asia): coaching, developing and building autonomy for each Product Manager.
 - Full P&L ownership of a $100M global product line across 3 sites (France, India, China): 36-month strategic roadmap, 12-month operating plan, ~$4M OPEX/CAPEX budget.

@@ -13,16 +13,8 @@ Product Portfolio & P&L Management in energy/e-mobility segments • Product Roa
 
 ## Professional Experience
 
-### Strategy Business Development Manager
-**Amphenol – Remote** | May 2026 – present
-
-- Selected to build a new EMEA organization from the ground up across segments including e-mobility and energy storage: designed and executed market entry and growth strategy (product + commercial).
-- Managing a segment portfolio of €80M pipeline and €20M revenue across 7 product families, including power systems for electric vehicles and storage applications.
-- Personally generated €20M in incremental pipeline, converting €6M into design wins; growing Top 5 OEM and Top 5 Tier 1 accounts in the electric mobility sector.
-- Cross-functional leadership across ~44 stakeholders: sales reps, 6 Product Line Managers, 25 PMs, ops/engineering (3 sites).
-
 ### Group Product Manager
-**Amphenol – Remote** | June 2024 – May 2026
+**Amphenol – Remote** | June 2024 – present
 
 - Full P&L responsibility for a $100M global e-mobility product line across 3 sites (France, India, China), including 36-month strategic roadmap and 12-month operating plan, with ~$4M OPEX/CAPEX budget.
 - Grew revenue from $45M to $100M across e-mobility and battery energy storage (BESS) segments; $150M projected for 2029.
