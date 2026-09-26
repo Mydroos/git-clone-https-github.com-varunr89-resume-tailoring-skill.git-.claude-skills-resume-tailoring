@@ -2,6 +2,8 @@
 
 **Date :** 2026-09-23
 
+**Mise à jour du 26/09/2026 :** le poste "Strategy Business Development Manager" a été retiré du CV à la demande du candidat, qui a repris son poste de Group Product Manager. Ses dates ont été étendues jusqu'à aujourd'hui. Les exemples de reformulation ci-dessous concernent des bullets qui ne figurent plus dans la version finale du CV ; ils restent comme trace du raisonnement initial.
+
 ## Poste ciblé
 - Entreprise : Proton (mission : la confidentialité par défaut)
 - Rôle : Head of Product, Proton Mail/Inbox

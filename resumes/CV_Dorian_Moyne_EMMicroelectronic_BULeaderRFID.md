@@ -21,16 +21,8 @@ P&L Ownership & Business Unit Management • Product Roadmap, Portfolio Strategy
 
 ## Professional Experience
 
-### Strategy Business Development Manager
-**Amphenol, Remote** | May 2026 – Present
-
-- Selected to build a new EMEA organization from zero: market penetration and growth strategy spanning product and commercial dimensions.
-- Own a portfolio of €80M pipeline and €20M revenue across 7 product families.
-- Personally generated €20M of incremental pipeline, converted €6M into design wins; developed Top 5 OEM and Top 5 Tier 1 accounts, reactivated dormant accounts.
-- Cross-functional leadership across ~44 stakeholders: sales, 6 Product Line Managers, 25 Product Managers, operations/engineering across 3 sites.
-
 ### Group Product Manager
-**Amphenol, Remote** | June 2024 – May 2026
+**Amphenol, Remote** | June 2024 – Present
 
 - Full P&L ownership of a $100M global e-mobility product line across 3 sites (France, India, China): 36-month strategic roadmap, 12-month operating plan, ~$4M OPEX/CAPEX budget.
 - Grew revenue from $45M to $100M; $150M projected for 2029.

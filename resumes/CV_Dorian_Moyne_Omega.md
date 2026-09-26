@@ -13,14 +13,8 @@ Leadership naturel : accompagner, challenger, développer et fédérer une équi
 
 ## Expérience professionnelle
 
-### Strategy Business Development Manager
-**Amphenol – Remote** | Mai 2026 – présent
-
-- Sélectionné pour construire une nouvelle organisation EMEA depuis zéro : mise en place des processus et standards de suivi, avec leadership interfonctionnel sur ~44 parties prenantes (commerciaux, 6 Product Line Managers, 25 Product Managers, opérations/ingénierie sur 3 sites).
-- Vision globale et gestion des priorités sur un portefeuille de 7 familles de produits, incluant l'identification et le développement de nouveaux comptes stratégiques.
-
 ### Group Product Manager
-**Amphenol – Remote** | Juin 2024 – Mai 2026
+**Amphenol – Remote** | Juin 2024 – présent
 
 - Leadership opérationnel d'une équipe produit internationale de 6 personnes (Europe & Asie) : encadrement, accompagnement et développement de l'autonomie de chaque Product Manager sur son périmètre.
 - Responsabilité P&L complète d'une ligne de produits e-mobilité mondiale de 100 M$ sur 3 sites (France, Inde, Chine) : roadmap stratégique à 36 mois, plan opérationnel à 12 mois, budget OPEX/CAPEX de ~4 M$.

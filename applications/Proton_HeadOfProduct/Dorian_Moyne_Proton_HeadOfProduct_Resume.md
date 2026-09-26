@@ -13,16 +13,8 @@ Product Strategy & Roadmap Ownership • Product Management Team Leadership (hir
 
 ## Professional Experience
 
-### Strategy Business Development Manager
-**Amphenol – Remote** | May 2026 – Present
-
-- Selected to build a new EMEA organization from the ground up. Designed and executed the market entry and growth strategy (product and commercial) with a scrappy, resource-efficient approach.
-- Own a portfolio of €80M pipeline and €20M revenue across 7 product families, prioritizing and making high-conviction calls on where to focus with limited resources.
-- Led cross-functional efforts across ~44 stakeholders: sales, 6 Product Line Managers, 25 Product Managers, and operations/engineering across 3 sites. Drove alignment without direct authority over most of the group.
-- Personally generated €20M of incremental pipeline, converting €6M into design wins; reactivated dormant accounts and grew strategic key accounts.
-
 ### Group Product Manager
-**Amphenol – Remote** | June 2024 – May 2026
+**Amphenol – Remote** | June 2024 – Present
 
 - Full P&L ownership of a $100M global product line across 3 sites (France, India, China). Set the 36-month strategic roadmap and 12-month operating plan, and owned execution end-to-end.
 - Directly managed, coached, and developed a team of 5 Product Managers and 1 Product Specialist (Europe & Asia); recruited 2 new Product Managers and managed a performance-related departure.
