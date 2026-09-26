@@ -1,0 +1,72 @@
+# Dorian Moyne
+
+Head of Product | P&L Ownership, Product Strategy & Team Leadership
++33 6 49 48 89 91 | dorianm@nrd-mail.com | linkedin.com/in/dorian-moyne/ | Fourg, France
+
+## Key Skills
+
+Product Strategy & Roadmap Ownership • P&L & Portfolio Management • Product Management Team Leadership (hiring, coaching, performance management) • Business Development & Go-to-Market • Key Account Management • Cross-Functional Leadership (Engineering, Industrialization, Quality, Supply Chain) • Executive Reporting & Governance • Pricing Strategy • Lean Six Sigma
+
+## Profile
+
+10+ years of experience in Product Management, Business Development and product engineering across automotive, e-mobility and industrial electronics. Currently own full P&L responsibility for a $100M global product line across 3 sites (France, India, China) and manage a team of 5 Product Managers and 1 Product Specialist, with extended coordination of 25+ PMs. Set strategic roadmaps, define product KPIs, and report directly to executive leadership. Grew businesses from $1M to $30M and from $45M to $100M, building a combined qualified pipeline exceeding $370M with a conversion rate above 30%. Engineer by training, moved from process engineering and product development into Product Management and Business Development.
+
+## Professional Experience
+
+### Group Product Manager
+**Amphenol – Remote** | June 2024 – present
+
+- Full P&L responsibility for a $100M global e-mobility product line across 3 sites (France, India, China), including 36-month strategic roadmap and 12-month operating plan, with ~$4M OPEX/CAPEX budget.
+- Grew revenue from $45M to $100M; $150M projected for 2029.
+- Built a $220M qualified pipeline with >30% conversion rate.
+- Improved Return on Sales by +10% through pricing discipline and portfolio industrialization.
+- Reported monthly to the Amphenol group board; direct management of an international team of 5 Product Managers and 1 Product Specialist (Europe & Asia).
+
+### Product Manager – Automotive Connector
+**Amphenol – Besançon, France** | Jan 2022 – May 2024
+
+- Global strategy and commercial execution for an automotive connector family; team and pipeline built from scratch.
+- Direct management of 2 reports: a local Product Manager in China and a Product Specialist in France.
+- Grew revenue from $1M to $30M.
+- $150M opportunity pipeline with >30% conversion rate.
+- Defined product roadmap and pricing strategy across global markets.
+
+### Product Manager – Miniature Industrial Connector
+**Amphenol – Besançon, France** | Dec 2020 – Dec 2021
+
+- Product strategy and commercial execution; +50% revenue growth in one year.
+- Raised opportunity conversion rate to >35%.
+
+### Product Development Engineer
+**C&K – Dole, France** | Sep 2018 – Dec 2020
+
+- Responsible for FEA simulations and technical validation.
+- Deployed Abaqus and Ansys Enventive in R&D processes.
+- Developed products in advanced transparent, reflow-resistant materials.
+
+### Process Engineer
+**C&K – Dole, France** | Sep 2015 – Aug 2018
+
+- Responsible for an industrial product portfolio in high-volume production; OEE maintained >85%.
+- Monthly industrialization of new product variants.
+
+## Education
+
+**Engineering Degree, Mechanical & Microtechnical Engineering** | 2015 – 2018
+SUPMICROTECH-ENSMM, Besançon
+
+**BTS (Advanced Technician Certificate), Microtechnology Design & Industrialization** | 2013 – 2015
+Lycée Edgar Faure, Morteau
+
+## Certifications
+
+- Lean Six Sigma Green Belt
+- DFMEA Upgrade AIAG-VDA-SAE
+- Abaqus – Contact & Non-linearity
+- The 7 Habits of Highly Effective People (FranklinCovey)
+
+## Languages
+
+- French – native
+- English – bilingual
+- German – learning
